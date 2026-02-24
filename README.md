@@ -3,9 +3,9 @@ Predict student final exam score using study-related features.
 
 # Dataset Description
 Features:
-Hours Studied
-Attendance
-Previous Score
+Hours Studied,
+Attendance,
+Previous Score,
 Sleep Hours
 
 Target:
@@ -16,8 +16,8 @@ Linear Regression
 
 # Results
 Mention:
-MAE
-R² score
+MAE,
+R² score,
 Best performing feature combination
 
 # Conclusion
