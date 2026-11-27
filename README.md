@@ -21,4 +21,4 @@ R² score,
 Best performing feature combination
 
 # Conclusion
-Summarize what you learned
+Learned how to train a basic linear prediction model from scratch and evaluate it onto a new dataset 
