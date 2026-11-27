@@ -15,10 +15,8 @@ Final Score
 Linear Regression
 
 # Results
-Mention:
-MAE,
-R² score,
-Best performing feature combination
+MAE: 0.5755277599234709
+R2 Score: 0.9988548817209996
 
 # Conclusion
 Learned how to train a basic linear prediction model from scratch and evaluate it onto a new dataset 
